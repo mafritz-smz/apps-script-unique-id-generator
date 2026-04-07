@@ -58,17 +58,19 @@ No código, configure conforme sua planilha:
 * Atualize a planilha
 * Utilize o menu personalizado:
 * Status → Gerar UUID
+### Exemplo UI funcional
+![Disposição de UI](images/disposicao-ui.png)
 
 ---
 
 ## 📸 Exemplo de funcionamento
 
-Antes:
+### Antes:
+![Problema sem UUID](images/uuid-problema.png)
 
 
-
-Depois:
-
+### Depois:
+![Solução com UUID](images/uuid-solucao.png)
 
 
 ---
